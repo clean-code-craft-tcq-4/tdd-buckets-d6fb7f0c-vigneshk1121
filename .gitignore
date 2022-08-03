@@ -12,3 +12,9 @@
 /.vs/TestDrivenDevelopment/v16
 /TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.assets.json
 /TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.nuget.cache
+/TestDrivenDevelopment/bin/Debug/netcoreapp3.1
+/TestDrivenDevelopment/obj
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/TestResults
+/TestDrivenDevelopmentTest/bin/Debug/netcoreapp3.1
+/TestDrivenDevelopmentTest/obj
+/TestDrivenDevelopmentTest/TestResults/c7f35781-0350-499a-8902-e5dd23a578fa
