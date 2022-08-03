@@ -5,10 +5,10 @@
 
 /TestDrivenDevelopment/.vs/TestDrivenDevelopment
 /TestDrivenDevelopment/TestDrivenDevelopment/obj
-/TestDrivenDevelopment/TestDrivenDevelopmentTest/bin/Debug/netcoreapp3.1
-/TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/Debug/netcoreapp3.1
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/bin
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/obj
 /TestDrivenDevelopment/TestResults
-/TestDrivenDevelopment/TestDrivenDevelopment/bin/Debug/netcoreapp3.1
+/TestDrivenDevelopment/TestDrivenDevelopment/bin
 /.vs/TestDrivenDevelopment/v16
 /TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.assets.json
 /TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.nuget.cache
