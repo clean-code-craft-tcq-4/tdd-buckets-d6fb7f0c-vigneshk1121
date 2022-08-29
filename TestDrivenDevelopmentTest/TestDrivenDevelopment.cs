@@ -8,7 +8,7 @@ namespace TestDrivenDevelopmentTest
     public class TestDrivenDevelopment
     {
         [Fact]
-        public void PrintCSVFormat1()
+        public void PrintCSVFormatOfTwoRanges()
         {
             var value = new List<int> { 4, 5 };
             var result = TestDrivenRanges.ProcessSamples(value);
@@ -19,7 +19,7 @@ namespace TestDrivenDevelopmentTest
         }
 
         [Fact]
-        public void PrintCSVFormat2()
+        public void PrintCSVFormatFOrMultipleRanges()
         {
             var value = new List<int> { 3, 3, 5, 4, 10, 11, 12 };
             var result = TestDrivenRanges.ProcessSamples(value);
@@ -28,7 +28,7 @@ namespace TestDrivenDevelopmentTest
         }
 
         [Fact]
-        public void GetRangeAndReadings1()
+        public void GetRangeAndReadingsForTwoInputValues()
         {
             var value = new List<int> { 4,5 };
             var result = TestDrivenRanges.GetRangeAndReadings(value);
@@ -41,7 +41,7 @@ namespace TestDrivenDevelopmentTest
         }
 
         [Fact]
-        public void GetRangeAndReadings2()
+        public void GetRangeAndReadingsForMultipleInputValues()
         {
             var value = new List<int> { 3, 3, 5, 4, 10, 11, 12 };
             var result = TestDrivenRanges.GetRangeAndReadings(value);
