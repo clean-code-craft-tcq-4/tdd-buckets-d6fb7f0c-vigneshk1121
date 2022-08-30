@@ -11,10 +11,6 @@ namespace TestDrivenDevelopmentTest
 
         void GetMaximumAnalogReadingShouldReturn2squareofBitTypeminus2();
 
-        void TestEmptyValues();
-
-        void TestNullValues();
-
         void TestValidValues();
 
         void TestErrorValues();

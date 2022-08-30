@@ -21,28 +21,6 @@ namespace TestDrivenDevelopmentTest
         }
 
         [Fact]
-        public void TestEmptyValues()
-        {
-            var expectedResult = new A2DConversionResult()
-            {
-                PositiveReadings = new List<int>(),
-                ErrorReadings = new List<int>()
-            };
-            TestA2DConversion(GetInstance(), new List<int>(), expectedResult);
-        }
-
-        [Fact]
-        public void TestNullValues()
-        {
-            var expectedResult = new A2DConversionResult()
-            {
-                PositiveReadings = new List<int>(),
-                ErrorReadings = new List<int>()
-            };
-            TestA2DConversion(GetInstance(), null, expectedResult);
-        }
-
-        [Fact]
         public void TestValidValues()
         {
 
