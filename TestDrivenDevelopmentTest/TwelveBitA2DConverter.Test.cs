@@ -20,6 +20,7 @@ namespace TestDrivenDevelopmentTest
             Assert.Equal(4094, instance._maximumAnalogReading);
         }
 
+
         [Fact]
         public void TestValidValues()
         {
@@ -60,6 +61,16 @@ namespace TestDrivenDevelopmentTest
             A2DConverter instance = GetInstance();
             Assert.True(instance.IsValueWithinRange(100));
             Assert.False(instance.IsValueWithinRange(4957));
+        }
+
+        public void TestEmptyValues()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void TestNullValues()
+        {
+            throw new NotImplementedException();
         }
     }
 }
