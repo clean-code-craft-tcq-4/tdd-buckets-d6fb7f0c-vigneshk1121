@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/TestDrivenDevelopment/.vs/TestDrivenDevelopment
+/TestDrivenDevelopment/TestDrivenDevelopment/obj
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/bin
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/obj
+/TestDrivenDevelopment/TestResults
+/TestDrivenDevelopment/TestDrivenDevelopment/bin
+/.vs/TestDrivenDevelopment/v16
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.assets.json
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/obj/project.nuget.cache
+/TestDrivenDevelopment/bin/Debug/netcoreapp3.1
+/TestDrivenDevelopment/obj
+/TestDrivenDevelopment/TestDrivenDevelopmentTest/TestResults
+/TestDrivenDevelopmentTest/bin/Debug/netcoreapp3.1
+/TestDrivenDevelopmentTest/obj
+/TestDrivenDevelopmentTest/TestResults/c7f35781-0350-499a-8902-e5dd23a578fa
+/.vs/TestDrivenDevelopment/DesignTimeBuild
+/TestDrivenDevelopmentTest/TestResults/d3e49f10-de93-495d-a8cb-aa49eae7dd4d
